@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+.venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# LangChain / Chroma vector store
+chroma_db/
+*.chroma/
+
+# Ollama pulled models (if downloaded to project)
+ollama_models/
+
+# Pytest / test cache
+.pytest_cache/
+.cache/
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables or credentials (if used)
+.env
+oauth2.json

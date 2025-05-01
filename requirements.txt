@@ -1,0 +1,15 @@
+ollama
+chromadb
+pdfplumber
+langchain
+langchain-core
+langchain_ollama
+langchain-community
+langchain_text_splitters
+unstructured
+unstructured[all-docs]
+fastembed
+sentence-transformers
+elevenlabs
+pdfminer.six<20221105
+pymupdf
