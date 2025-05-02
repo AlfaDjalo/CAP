@@ -4,7 +4,7 @@ pdfplumber
 langchain
 langchain-core
 langchain_ollama
-langchain-community
+langchain_community
 langchain_text_splitters
 unstructured
 unstructured[all-docs]

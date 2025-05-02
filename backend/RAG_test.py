@@ -16,7 +16,7 @@ from langchain.retrievers.multi_query import MultiQueryRetriever
 
 import ollama
 
-doc_path = "./data/CAP_Game_Guide.pdf"
+doc_path = "../data/CAP_Game_Guide.pdf"
 model = "deepseek-r1:7b"
 # model = "deepseek-llm:7b"
 # model = "gemma3:1b"

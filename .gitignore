@@ -10,6 +10,9 @@ ENV/
 env/
 .venv.bak/
 
+# Ignore virtual environment in backend directory
+backend/venv/
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
