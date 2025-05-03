@@ -40,3 +40,7 @@ Thumbs.db
 # Environment variables or credentials (if used)
 .env
 oauth2.json
+
+# React node modules and build modules
+frontend/node_modules/
+frontend/build/
