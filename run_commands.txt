@@ -1,0 +1,11 @@
+To run the RAG appL
+In ./backend
+python RAG_test.py
+
+To start the front end:
+In ./frontend
+npm start
+
+To start the json-server on port 8000:
+In ./frontend
+npx json-server --watch data/gamelist.json --port 8000

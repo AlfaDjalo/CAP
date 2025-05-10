@@ -1,0 +1,12 @@
+{
+    "games": [
+        {"game": "Single Board", "filename": "singleBoard.json", "id":1},
+        {"game": "Double Board", "filename": "doubleBoard.json", "id":2},
+        {"game": "Triple Board", "filename": "tripleBoard.json", "id":3},
+        {"game": "Triple Board with Floater", "filename": "tripleBoardFloater.json", "id":4},
+        {"game": "Double Bullseye", "filename": "doubleBullseye.json", "id":5},
+        {"game": "Bomba", "filename": "bomba.json", "id":6},
+        {"game": "Pookai", "filename": "pookai.json", "id":7},
+        {"game": "Countdown", "filename": "countdown.json", "id":8}
+    ]
+}
